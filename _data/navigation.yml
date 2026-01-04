@@ -1,0 +1,22 @@
+# main links
+main:
+  - title: "Courses"
+    url: /courses/
+  - title: "my professors"
+    url: /my professors at the university/
+  - title: "Links"
+    url: /links/
+  - title: "HW"
+    url: /HW/  
+  - title: "Gallery"
+    url: /gallery/
+  - title: "Blog"
+    url: /blog/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
